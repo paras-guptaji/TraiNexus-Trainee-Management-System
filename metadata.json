@@ -1,0 +1,6 @@
+{
+  "name": "TraiNexus",
+  "description": "Enterprise-grade Trainee Management System for GAIL Vijaypur.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
